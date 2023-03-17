@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rincian</name>
+   <tag></tag>
+   <elementGuidId>e9251a76-7fa4-426c-a56f-534395f3dfef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.accordion.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='simulation-result-detail']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c744a03e-a226-4ddc-a62c-58a71a866364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion active</value>
+      <webElementGuid>6a5cc3f6-b9de-4125-abf6-4ca1472a2560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rincian</value>
+      <webElementGuid>e817e270-6816-450d-b9e5-2456a64e42d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simulation-result-detail&quot;)/button[@class=&quot;accordion active&quot;]</value>
+      <webElementGuid>bec6fb1b-93c9-4c41-912b-4a1e62cb9a92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='simulation-result-detail']/button</value>
+      <webElementGuid>3b1aefee-9c0e-45b0-a624-eb8699d095dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perkiraan Maksimal Uang Pinjaman'])[1]/following::button[1]</value>
+      <webElementGuid>01a96e53-6fbc-42ce-9424-266bad706c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaminan Anda belum mencukupi.'])[1]/following::button[1]</value>
+      <webElementGuid>160a3a7e-1d68-402d-b2a7-b145c01da9ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>99ffb4c7-fc8d-4c66-a6e8-2826c50eca18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Simulasi'])[1]/preceding::button[2]</value>
+      <webElementGuid>d9837fa1-4614-48b0-8a57-24d0e3a43170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rincian']/parent::*</value>
+      <webElementGuid>9ca80b24-79ca-44d3-afaf-aaedeab9ce65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>914ab3dd-233f-4133-be6e-d0460f15edd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Rincian' or . = 'Rincian')]</value>
+      <webElementGuid>193dad67-6313-49cf-8086-575f217474b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

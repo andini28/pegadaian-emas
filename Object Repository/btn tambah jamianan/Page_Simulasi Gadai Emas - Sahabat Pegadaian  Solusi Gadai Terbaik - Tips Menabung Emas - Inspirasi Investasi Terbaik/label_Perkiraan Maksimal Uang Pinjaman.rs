@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Perkiraan Maksimal Uang Pinjaman</name>
+   <tag></tag>
+   <elementGuidId>0e84066c-30f7-4b28-9c7d-abb922b2ba15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#simulasi-segment-total-uang-muka > label.group-input__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='simulasi-segment-total-uang-muka']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b5b78e27-9596-4d5b-b618-437124e18661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group-input__label</value>
+      <webElementGuid>52a3e5c3-d4fe-4f51-8f7f-932dae9ed607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perkiraan Maksimal Uang Pinjaman</value>
+      <webElementGuid>fd84ff6f-cf95-4f5f-ad2c-6aacb2fea4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simulasi-segment-total-uang-muka&quot;)/label[@class=&quot;group-input__label&quot;]</value>
+      <webElementGuid>dbe803ec-25c2-4742-aaf6-9c2a91af94a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='simulasi-segment-total-uang-muka']/label</value>
+      <webElementGuid>af4e3ec6-8b62-44ca-a8ee-467c098863c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaminan Anda belum mencukupi.'])[1]/following::label[1]</value>
+      <webElementGuid>46a5e009-51dc-4aaa-85de-39207d46bd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka Waktu'])[1]/following::label[1]</value>
+      <webElementGuid>7ece92cf-2577-4a58-a8c0-351dffadfad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rincian'])[1]/preceding::label[1]</value>
+      <webElementGuid>a65bfc3f-2eb2-4027-aa25-6b828e9cd732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Sekarang'])[1]/preceding::label[1]</value>
+      <webElementGuid>38b97f27-c7c1-4007-9845-3354c29fdceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perkiraan Maksimal Uang Pinjaman']/parent::*</value>
+      <webElementGuid>6aaee49e-1e39-41e4-bba5-b17902a5c2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>744fc499-8c08-4824-bb8e-9e428aa56792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Perkiraan Maksimal Uang Pinjaman' or . = 'Perkiraan Maksimal Uang Pinjaman')]</value>
+      <webElementGuid>5ee2718c-57d4-477b-b8ee-8edb3304a2a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

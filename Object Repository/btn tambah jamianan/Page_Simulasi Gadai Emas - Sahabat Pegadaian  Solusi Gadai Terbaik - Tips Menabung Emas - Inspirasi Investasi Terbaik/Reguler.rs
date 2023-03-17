@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reguler</name>
+   <tag></tag>
+   <elementGuidId>1b2f4443-ddca-4b55-90a4-052d78549721</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#product_list_select > li.option-fitur-produk > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='product_list_select']/li/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d3386cab-ed56-4780-bc3d-f1c466912793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RegulerGadai untuk dengan jangka waktu 120 hari dan dapat diperpanjang.</value>
+      <webElementGuid>2aace0a6-d887-480a-9968-79b647f51314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_list_select&quot;)/li[@class=&quot;option-fitur-produk&quot;]/p[1]</value>
+      <webElementGuid>4e9a2f94-1a5c-4974-9827-319a1852aeae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='product_list_select']/li/p</value>
+      <webElementGuid>e642424a-efbe-4a90-82aa-7c94955a09ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gadai untuk dengan jangka waktu 120 hari dan dapat diperpanjang.'])[1]/following::p[1]</value>
+      <webElementGuid>45164488-4db4-480d-8378-ffb003983212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Produk'])[1]/following::p[2]</value>
+      <webElementGuid>8709a497-1b8c-46a7-9aa9-680e97602af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gadai dengan perhitungan sewa modal harian.'])[1]/preceding::p[1]</value>
+      <webElementGuid>15ba1f21-c6bf-4d64-b1ba-f07c9857d9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/p</value>
+      <webElementGuid>f26b36bb-99fc-4084-94d6-93255fcbcfba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'RegulerGadai untuk dengan jangka waktu 120 hari dan dapat diperpanjang.' or . = 'RegulerGadai untuk dengan jangka waktu 120 hari dan dapat diperpanjang.')]</value>
+      <webElementGuid>bd9adfaf-b89a-44f7-b871-2bc888eff6b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

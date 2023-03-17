@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Berat Tanpa Mata</name>
+   <tag></tag>
+   <elementGuidId>b180409b-7c68-41fb-a296-c87ff210e8bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='perhiasan-form-group']/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#perhiasan-form-group > div.inputan-simulasi > label.group-input__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>96831149-929c-40b1-9029-3c088369ef5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group-input__label</value>
+      <webElementGuid>60a359f2-981f-4ed4-8b63-230541d5e1bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berat Tanpa Mata</value>
+      <webElementGuid>7ce85d23-e81a-46b5-adf9-044730c7b263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;perhiasan-form-group&quot;)/div[@class=&quot;inputan-simulasi&quot;]/label[@class=&quot;group-input__label&quot;]</value>
+      <webElementGuid>5778a99d-1ab7-4aaa-9b58-f74eb1248d5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='perhiasan-form-group']/div[3]/label</value>
+      <webElementGuid>6fb78798-ea78-4816-bd88-519222a2c040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kadar'])[2]/following::label[1]</value>
+      <webElementGuid>e921133e-b8e5-448e-b869-f26b3bcfe73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kadar'])[1]/following::label[1]</value>
+      <webElementGuid>7bed67a0-5f7f-41f7-8b9f-b7e57879130a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gram'])[1]/preceding::label[1]</value>
+      <webElementGuid>73b580e4-b795-41ce-a433-a8e56dc9a1b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::label[1]</value>
+      <webElementGuid>a67a276a-c377-4b4d-af20-44da7bc90463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berat Tanpa Mata']/parent::*</value>
+      <webElementGuid>bf48063f-19b0-4cf5-be13-5c01d3d0ad8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/label</value>
+      <webElementGuid>8b8667d2-8b43-431d-a0b8-ccb19c35bd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Berat Tanpa Mata' or . = 'Berat Tanpa Mata')]</value>
+      <webElementGuid>1254d05e-100e-4174-8847-81c35907a9d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

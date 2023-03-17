@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rp 19.500  15 Hari</name>
+   <tag></tag>
+   <elementGuidId>ab101899-0288-4e1d-8233-f53dfec77db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#display_uang_muka</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='display_uang_muka']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>12c30e67-d8e4-4a71-8ffd-ecc1b3d4531f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>display_uang_muka</value>
+      <webElementGuid>3550c61a-c7c8-4888-a50f-2c96b7e73dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 19.500 / 15 Hari</value>
+      <webElementGuid>291f623e-5cdb-49b3-a8d8-c86e0f1d0b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_uang_muka&quot;)</value>
+      <webElementGuid>03604155-0a8a-45b0-8f66-d3641c6d2122</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='display_uang_muka']</value>
+      <webElementGuid>12e4a42a-96b6-4773-aed9-c41a03164007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='simulation-result-detail']/div/div/p[2]</value>
+      <webElementGuid>7aa4b83a-0c2d-4f8d-a50a-9dca90dffb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rincian'])[1]/following::p[2]</value>
+      <webElementGuid>28138003-d4d1-4ee8-a213-6013592c749b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perkiraan Maksimal Uang Pinjaman'])[1]/following::p[3]</value>
+      <webElementGuid>a2e4c5ea-dfd8-403a-b258-7c3967ccaab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Sekarang'])[1]/preceding::p[1]</value>
+      <webElementGuid>740ac6c8-e6c0-4144-8483-8287a5e47ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Simulasi'])[1]/preceding::p[1]</value>
+      <webElementGuid>867e62b6-da5e-4b0a-bae1-67df6eb8e73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp 19.500 / 15 Hari']/parent::*</value>
+      <webElementGuid>2441b9a4-c975-47ed-9254-28513dc730da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/p[2]</value>
+      <webElementGuid>a7c72dc5-f4fc-4db7-8324-ce2ef34b4a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'display_uang_muka' and (text() = 'Rp 19.500 / 15 Hari' or . = 'Rp 19.500 / 15 Hari')]</value>
+      <webElementGuid>fd1e39cc-faf0-4e37-8520-b71435787ff2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
